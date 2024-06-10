@@ -1,0 +1,8 @@
+D:\Practice\Refactoring\2.Preventers Shotgun Change\Refactored\bin\Debug\Refactored.exe.config
+D:\Practice\Refactoring\2.Preventers Shotgun Change\Refactored\bin\Debug\Refactored.exe
+D:\Practice\Refactoring\2.Preventers Shotgun Change\Refactored\bin\Debug\Refactored.pdb
+D:\Practice\Refactoring\2.Preventers Shotgun Change\Refactored\obj\Debug\Refactored.csproj.AssemblyReference.cache
+D:\Practice\Refactoring\2.Preventers Shotgun Change\Refactored\obj\Debug\Refactored.csproj.SuggestedBindingRedirects.cache
+D:\Practice\Refactoring\2.Preventers Shotgun Change\Refactored\obj\Debug\Refactored.csproj.CoreCompileInputs.cache
+D:\Practice\Refactoring\2.Preventers Shotgun Change\Refactored\obj\Debug\Refactored.exe
+D:\Practice\Refactoring\2.Preventers Shotgun Change\Refactored\obj\Debug\Refactored.pdb

@@ -1,0 +1,8 @@
+D:\Practice\Refactoring\4. Couplers\NeedsRefactoring\bin\Debug\NeedsRefactoring.exe.config
+D:\Practice\Refactoring\4. Couplers\NeedsRefactoring\bin\Debug\NeedsRefactoring.exe
+D:\Practice\Refactoring\4. Couplers\NeedsRefactoring\bin\Debug\NeedsRefactoring.pdb
+D:\Practice\Refactoring\4. Couplers\NeedsRefactoring\obj\Debug\NeedsRefactoring.csproj.AssemblyReference.cache
+D:\Practice\Refactoring\4. Couplers\NeedsRefactoring\obj\Debug\NeedsRefactoring.csproj.SuggestedBindingRedirects.cache
+D:\Practice\Refactoring\4. Couplers\NeedsRefactoring\obj\Debug\NeedsRefactoring.csproj.CoreCompileInputs.cache
+D:\Practice\Refactoring\4. Couplers\NeedsRefactoring\obj\Debug\NeedsRefactoring.exe
+D:\Practice\Refactoring\4. Couplers\NeedsRefactoring\obj\Debug\NeedsRefactoring.pdb
